@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/coding-challenge-frontend/static/css/main.c6717c19.css",
-    "main.js": "/coding-challenge-frontend/static/js/main.9dad8903.js",
+    "main.js": "/coding-challenge-frontend/static/js/main.8892f40e.js",
     "static/js/496.2d6bd03a.chunk.js": "/coding-challenge-frontend/static/js/496.2d6bd03a.chunk.js",
     "static/media/spinner2.mp4": "/coding-challenge-frontend/static/media/spinner2.167c403f69e2a74069c3.mp4",
     "static/media/spinner.mp4": "/coding-challenge-frontend/static/media/spinner.f5baeab5c8e6977f0d4c.mp4",
     "index.html": "/coding-challenge-frontend/index.html",
     "main.c6717c19.css.map": "/coding-challenge-frontend/static/css/main.c6717c19.css.map",
-    "main.9dad8903.js.map": "/coding-challenge-frontend/static/js/main.9dad8903.js.map",
+    "main.8892f40e.js.map": "/coding-challenge-frontend/static/js/main.8892f40e.js.map",
     "496.2d6bd03a.chunk.js.map": "/coding-challenge-frontend/static/js/496.2d6bd03a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6717c19.css",
-    "static/js/main.9dad8903.js"
+    "static/js/main.8892f40e.js"
   ]
 }
