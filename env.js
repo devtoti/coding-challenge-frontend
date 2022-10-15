@@ -1,6 +1,5 @@
 window.env = {
   "ALLUSERSPROFILE": "C:\\ProgramData",
-  "API_KEY": "b81cd1a66eaee287ea9830aa66250511",
   "APPDATA": "C:\\Users\\Toti Webdev\\AppData\\Roaming",
   "ChocolateyInstall": "C:\\ProgramData\\chocolatey",
   "ChocolateyLastPathUpdate": "132916798402182712",
@@ -67,6 +66,7 @@ window.env = {
   "PROMPT": "$P$G",
   "PSModulePath": "C:\\Users\\Toti Webdev\\Documents\\WindowsPowerShell\\Modules;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules",
   "PUBLIC": "C:\\Users\\Public",
+  "REACT_APP_API_KEY": "b81cd1a66eaee287ea9830aa66250511",
   "SESSIONNAME": "Console",
   "SystemDrive": "C:",
   "SystemRoot": "C:\\WINDOWS",
